@@ -1,0 +1,1 @@
+# navidrome-spotify-ui
