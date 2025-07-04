@@ -28,4 +28,4 @@ Your server credentials are saved securely in your browser's local storage and a
 
 **AI-Assisted Development**
 
-This project was developed in collaboration with Google's Gemini AI. The process involved a series of prompts and iterative refinements to build the features, design the layout, and debug the code. It serves as an example of human-AI partnership in software development.
+This project was developed in collaboration with AI.
